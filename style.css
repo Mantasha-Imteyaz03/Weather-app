@@ -63,3 +63,36 @@ body{
   color: #fff;
   margin-top: -5px;
 }
+.details{
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 55px;
+}
+.col{
+  display: flex;
+  align-items: center;
+  text-align: left;
+  margin: 0;
+}
+.col img{
+  width: 40px;
+  margin-right: 10px;
+}
+.humidity{
+font-size: 20px;
+}
+.col2{
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+.col2 img{
+  width: 40px;
+  margin-left: 20px;
+}
+.wind{
+  font-size: 20px;
+  margin-left: 10px;
+}
