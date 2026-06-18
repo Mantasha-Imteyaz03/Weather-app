@@ -68,7 +68,7 @@ body{
   font-weight: 400;
   font-size: 50px;
 }
-.weather h2{
+.city{
   font-weight: 550;
   color: #fff;
   margin-top: -5px;
@@ -105,4 +105,13 @@ font-size: 20px;
 .wind{
   font-size: 20px;
   margin-left: 10px;
+}
+.error{
+  margin-top: 30px;
+  color: #fff;
+  font-size: 22px;
+  display: none;
+}
+.weather{
+  display: none;
 }
